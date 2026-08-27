@@ -1,0 +1,77 @@
+{
+  "profile": {
+    "name": "Utente Demo",
+    "role": "Sviluppatore",
+    "context": "Esempio anonimo: lavoro sedentario, allenamenti settimanali, obiettivi alimentari, risparmio personale e sessioni di studio.",
+    "notionHub": "Knowledge hub personale configurabile"
+  },
+  "health": {
+    "dailyCaloriesTarget": 2200,
+    "todayCalories": 1450,
+    "waterGlasses": 5,
+    "weeklyWorkoutTarget": 3,
+    "workoutsDone": 2,
+    "currentWeightKg": 75,
+    "sedentaryBreaksToday": 4,
+    "nextActions": [
+      "Pausa mobilita da 5 minuti dopo il prossimo blocco di lavoro",
+      "Chiudere la giornata entro il target kcal con proteine alte",
+      "Preparare scheda palestra prima di uscire"
+    ]
+  },
+  "finance": {
+    "annualSavingGoal": 5000,
+    "savedThisYear": 1750,
+    "monthlySavingTarget": 400,
+    "monthlySaved": 250,
+    "watchList": [
+      {
+        "label": "Spese ricorrenti",
+        "amount": 420
+      },
+      {
+        "label": "Extra non programmati",
+        "amount": 95
+      }
+    ]
+  },
+  "study": {
+    "exam": "Percorso di studio",
+    "weeklyQuizTarget": 200,
+    "quizDoneThisWeek": 80,
+    "sessions": [
+      {
+        "date": "2026-08-27",
+        "topic": "Materia A",
+        "questions": 40,
+        "correct": 31
+      },
+      {
+        "date": "2026-08-26",
+        "topic": "Materia B",
+        "questions": 30,
+        "correct": 24
+      }
+    ]
+  },
+  "knowledge": {
+    "notionAreas": [
+      "Fitness e dieta",
+      "Finanze personali",
+      "Studio",
+      "Lavoro",
+      "Decisioni"
+    ],
+    "pinnedNotes": [
+      {
+        "title": "Contesto per Codex",
+        "body": "Quando aiuti l'utente, considera insieme energia fisica, budget, tempo studio e lavoro."
+      },
+      {
+        "title": "Regola anti-overload",
+        "body": "Meglio suggerimenti piccoli, misurabili e sostenibili che piani perfetti ma pesanti."
+      }
+    ],
+    "assistantBrief": "Usa questa dashboard come fonte rapida prima di rispondere: obiettivi, metriche, note e priorita devono orientare suggerimenti e codice."
+  }
+}
